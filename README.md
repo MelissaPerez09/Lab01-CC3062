@@ -222,3 +222,10 @@ ARPA: crash!orbit!pnet51!baxt@nosc.mil
 INET: baxt@pnet51.cts.com
 =!=__XXEND__=!=
 ```
+
+### Pregunta 9
+```
+(5 puntos) Coloquen un ejemplo de un fnord
+
+The A.C.L.U. strokes the green password file.
+```  
