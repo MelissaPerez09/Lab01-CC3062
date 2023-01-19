@@ -23,14 +23,12 @@ ____
 
 *Primer párrafo:* There is coffee all over the world. Increasingly, in a world in which computing is ubiquitous, the computists want to make coffee. Coffee brewing is an art, but the distributed intelligence of the web-connected world transcends art.  Thus, there is a strong, dark, rich requirement for a protocol designed espressoly for the brewing of coffee. Coffee is brewed using coffee pots.  Networked coffee pots require a control protocol if they are to be controlled.
 
-
 ### Pregunta 2
 ```
 (20 puntos) ¿Cuál es el output de éste programa de Brainf*ck
 
 Hello World!
 ```
-
 
 ### Pregunta 3
 ```
@@ -174,9 +172,53 @@ Deben asegurarse que la vaca sea paranóica.
                 ||----w |
                 ||     ||
 ```
+  
 ### Pregunta 7
 ```
 (10 puntos) Traduzcan la siguiente frase a clave morse: "ye shall be as gods"
   
  -.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. …
+```
+  
+### Pregunta 8
+```
+(10 puntos) Busquen en usenet y escojan algún post interesante
+  
+Path: utzoo!attcan!uunet!ns-mx!iowasp.physics.uiowa.edu!maverick.ksu.ksu.edu!zaphod.mps.ohio-state.edu!swrinde!ucsd!nosc!crash!orbit!pnet51!baxt
+From: baxt@pnet51.orb.mn.org (Bill Backstrom)
+Subject: Pipe: problem
+Date: 17 Oct 90 00:45:02 GMT
+Newsgroups: comp.sys.amiga
+Organization: People-Net [pnet51], Minneapolis, MN.
+
+
+Somebody posted last week about a case sensitivity problem with pipe:.
+That one hasn't bitten me, but has anyone ran into this one? (BEWARE:
+THIS CRASHES MY MACHINE, SO SAVE YOUR WORK IF YOU'RE GONNA TRY IT AT
+HOME.)
+
+Type the following from shell:
+
+> run type >pipe:a libs:asl.library opt h <cr>
+> type pipe:a <cr>
+
+Now, while the contents of the pipe are printing, hit ctrl-C. On my
+A3000, the disk light flashes for a while after the prompt returns and
+soon crashes, try clicking the left mouse button a couple times.
+Mostly dies with software failure, sometimes a recoverable alert, once
+in awhile it is locked solid. 
+
+The file being redirected to pipe doesn't seem to matter, neither does
+run; you can type the two line in different shells, same result.
+Copying the file to pipe:a then typing it seems to work okay.  
+
+Problem doesn't occur if I boot KS and WB 1.3.
+
+I'm running KS 36.143, WB 36.68. I've reproduced it from a cold boot
+from floppy. Does this happen to anyone else?
+
+UUCP: {rosevax, crash}!orbit!pnet51!baxt
+ARPA: crash!orbit!pnet51!baxt@nosc.mil
+INET: baxt@pnet51.cts.com
+=!=__XXEND__=!=
 ```
