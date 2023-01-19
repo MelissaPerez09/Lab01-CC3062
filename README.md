@@ -28,3 +28,32 @@ ____
 (20 puntos) ¿Cuál es el output de éste programa de Brainf*ck
 ```
 Hello World!
+
+
+### Pregunta 3
+```
+(5 puntos) ¿Cúal es la fase de la luna actual?
+```
+                 .---
+             .--' 
+          .-'   
+       .-'@   @
+      /@@@  @@
+    ./    o @
+   /@@  o   @
+  /@@@@   . 
+  |@@@@@    
+ /@@@@@  O 	Last Quarter + 
+ | @@@@    	2 22:28:12
+ |@ @@@    	New Moon -     
+ |       @@	3 20:13:50
+ \  . @    
+  |      @@ 
+  \     @@@@
+   \  o  @@  
+    `\     . 
+      \       
+       `-.   o 
+          `-.   
+             `--. 
+                 `—
