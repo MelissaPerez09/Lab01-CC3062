@@ -159,3 +159,18 @@ bye
 
 I ENJOYED TALKING WITH YOU.
 ```
+  
+### Pregunta 6
+```
+(10 puntos) ¿Cómo pide auxilio una vaca paranoica?
+Deben asegurarse que la vaca sea paranóica.
+
+ ______________________ 
+< paranoid: SEND HELP! >
+ ---------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
