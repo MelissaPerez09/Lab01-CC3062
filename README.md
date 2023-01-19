@@ -229,3 +229,20 @@ INET: baxt@pnet51.cts.com
 
 The A.C.L.U. strokes the green password file.
 ```  
+
+### Pregunta 10
+```
+(5 puntos) ¿Cuál es la ubicación de su ip? ¿Y su ip pública?
+
+2800:98:122e:f9b7:90bf:e89c:ba93:c844
+Guatemala
+
+  Autonomous System    AS14754 Telgua
+  Continent            North America
+  Country              Guatemala
+  Subdivision          Guatemala Department
+  City                 Guatemala City
+  Postal Code          01001
+  Time Zone            America/Guatemala (UTC-06:00)
+  Latitude, Longitude  14.6343, -90.5155 (+/- 20 km)
+```    
