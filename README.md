@@ -99,3 +99,63 @@ Hello World!
 ##################################################################
 ##################################################################
 ```
+  
+### Pregunta 5
+```
+(10 puntos) ¿Que respuesta les dio la psicoterapeuta a la pregunta "what is life?”. 
+Ella da múltiples respuestas, escojan una. Pueden poner su conversación completa con ella si quieren.
+  
+HELLO, I AM ELIZA.
+
+what is life?
+
+HAVE YOU ASKED ANYONE ELSE?
+
+yes
+
+PLEASE TELL ME MORE ABOUT THIS.
+
+i have got really good answers
+
+DOES INTELLIGENCE HAVE SURVIVAL VALUE FOR A COMPUTER?
+
+maybe
+
+I CAN IMAGINE TALKING TO SOMEONE WHO IS MORE RELAXED.
+
+haha ok
+
+YOU ARE THE SORT OF PERSON WHO HAS MANY SECRET ADMIRERS.
+
+how do you know that?
+
+DOES THAT QUESTION INTEREST YOU?
+
+absolutely
+
+WHY ARE YOU SO UNFORTHCOMING?
+
+because i like to know the answers
+
+DOES THAT REASON SEEM TO EXPLAIN ANYTHING ELSE?
+
+tell me you
+
+SOME PEOPLE FIND ME VERY BORING.
+
+but i find you interesting
+
+WE WERE DISCUSSING YOU -- NOT ME.
+
+haha so answer my questions
+
+EVEN A COMPUTER CAN ENJOY TALKING TO YOU -- OR CAN IT?
+
+of course, i am cool
+
+WHY DO SOME PEOPLE FIND ME WORTH TALKING TO.
+
+bye
+
+I ENJOYED TALKING WITH YOU.
+```
